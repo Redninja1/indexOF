@@ -1,0 +1,9 @@
+c:\users\james\documents\visual studio 2013\Projects\indexOF 2\indexOF 2\bin\Debug\indexOF 2.exe.config
+c:\users\james\documents\visual studio 2013\Projects\indexOF 2\indexOF 2\bin\Debug\indexOF 2.exe
+c:\users\james\documents\visual studio 2013\Projects\indexOF 2\indexOF 2\bin\Debug\indexOF 2.pdb
+c:\users\james\documents\visual studio 2013\Projects\indexOF 2\indexOF 2\obj\Debug\indexOF 2.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2013\Projects\indexOF 2\indexOF 2\obj\Debug\indexOF_2.Form1.resources
+c:\users\james\documents\visual studio 2013\Projects\indexOF 2\indexOF 2\obj\Debug\indexOF_2.Properties.Resources.resources
+c:\users\james\documents\visual studio 2013\Projects\indexOF 2\indexOF 2\obj\Debug\indexOF 2.csproj.GenerateResource.Cache
+c:\users\james\documents\visual studio 2013\Projects\indexOF 2\indexOF 2\obj\Debug\indexOF 2.exe
+c:\users\james\documents\visual studio 2013\Projects\indexOF 2\indexOF 2\obj\Debug\indexOF 2.pdb
